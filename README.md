@@ -1,3 +1,2 @@
-# terminalasm
-Terminal em assembly (ARM64)
-(Atualização forçada ignore)
+#Assembly Term
+terminal em assembly
