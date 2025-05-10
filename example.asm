@@ -1,4 +1,4 @@
-_start
+_start    ;examples
     shell_loop:
         print_prompt:
             syscall write
